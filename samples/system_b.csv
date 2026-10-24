@@ -1,0 +1,31 @@
+id,name,amount,invoice_date,status
+1001,Sample Co 001 Limited,137.25,2026-02-04,Open
+1002,Sample Co 002 Limited,174.5,2026-03-07,Overdue
+1003,Sample Co 003 Limited,250.0,10/04/2026,Paid
+1004,  sample co 004   ltd ,249.0,2026-05-13,Open
+1006,Sample Co 006 Limited,323.5,19/01/2026,Paid
+1007,Sample Co 007 Limited,360.75,2026-02-22,OPEN 
+1008,  sample co 008   ltd ,398.0,2026-03-25,Paid
+1009,Sample Co 009 Limited,435.25,01/04/2026,Paid
+1010,Sample Co 010 Limited,472.50,2026-05-04,Open
+1011,Sample Co 011 Limited,520.0,2026-06-07,Overdue
+1012,  sample co 012   ltd ,547.0,10/01/2026,Paid
+1013,Sample Co 013 Limited,584.25,2026-02-13,Overdue
+1014,Sample Co 014 Limited,621.5,2026-03-16,OVERDUE 
+1015,Sample Co 015 Limited,658.75,19/04/2026,Paid
+1016,  sample co 016   ltd ,696.0,2026-05-22,Open
+1071,Sample Co 017 Limited,733.25,2026-06-25,Overdue
+1018,Sample Co 018 Limited,770.5,01/01/2026,Paid
+1019,Sample Co 019 Limited,807.75,2026-02-25,Open
+1020,  sample co 020   ltd ,845.00,2026-03-07,Overdue
+1021,Sample Co 021 Limited,882.25,10/04/2026,PAID 
+1022,Sample Co 022 Limited,920.0,2026-05-13,Open
+1023,Sample Co 023 Limited,956.75,2026-06-16,Overdue
+1024,  sample co 024   ltd ,994.0,19/01/2026,Paid
+1025,Sample Co 025 Limited,"1,031.25",2026-02-22,Open
+1O26,Sample Co. 026 Ltd,1068.5,2026-03-25,Overdue
+1027,Sample Co 027 Limited,1105.75,01/04/2026,Paid
+1028,  sample co 028   ltd ,1143.0,2026-05-04,OPEN 
+1030,Sample Co 030 Limited,"1,217.50",10/01/2026,Paid
+1101,Sample Co 071 Limited,300.0,2026-03-10,Open
+1102,Sample Co 099 Limited,150.0,2026-03-11,Paid

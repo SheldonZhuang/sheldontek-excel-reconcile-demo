@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+~$*.xlsx
+reconcile_report.xlsx
+!samples/reconcile_report.xlsx
