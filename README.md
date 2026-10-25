@@ -81,4 +81,4 @@ planted differences found, cosmetic noise not reported, identical results from x
 input, the report sheets, counts and highlight colours, and CLI argument validation.
 
 ## Licence and contact
-MIT, © 2026 SheldonTek Co., Limited. https://sheldontek.com
+MIT, © 2026 SheldonTek Co., Limited.
